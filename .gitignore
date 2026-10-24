@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+minifs_data.json
+.venv/
+venv/
+.env
